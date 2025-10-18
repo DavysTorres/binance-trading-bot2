@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "DEXEUSDT",
+    "precio_entrada": 5.593,
+    "cantidad": 2.681924,
+    "stop_loss": 5.593,
+    "take_profit": 5.593,
+    "timestamp": "20251011_191150",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

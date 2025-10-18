@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "ENSOUSDT",
+    "precio_entrada": 2.729,
+    "cantidad": 5.496519,
+    "stop_loss": 2.729,
+    "take_profit": 2.729,
+    "timestamp": "20251014_213032",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

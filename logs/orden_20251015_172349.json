@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "XPLUSDT",
+    "side": "SELL",
+    "estrategia": "Momentum Bajista Adaptativo",
+    "direccion": "short",
+    "precio_entrada": 0.46440000000000003,
+    "cantidad": 543.4,
+    "stop_loss": 0.4736,
+    "take_profit": 0.4504,
+    "timestamp": "20251015_172349",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

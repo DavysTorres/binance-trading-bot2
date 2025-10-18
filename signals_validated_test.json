@@ -1,0 +1,12 @@
+[
+    {
+        "symbol": "BTCUSDT",
+        "tipo": "long",
+        "estrategia": "multilayer_test",
+        "timestamp": "2025-10-17T19:20:39.462678",
+        "score_total": 0.95,
+        "estado": "pendiente",
+        "intentos": 1,
+        "etapa": "temprano"
+    }
+]

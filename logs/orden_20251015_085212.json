@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "XPLUSDT",
+    "side": "SELL",
+    "estrategia": "Ninguna se\u00f1al v\u00e1lida (Sesgo neutral, Intensidad 0.74)",
+    "direccion": "neutro",
+    "precio_entrada": 0.5188,
+    "cantidad": 0.1,
+    "stop_loss": 0.5188,
+    "take_profit": 0.5188,
+    "timestamp": "20251015_085212",
+    "simulada": true,
+    "motivo": "qty/notional insuficiente (simulaci\u00f3n)"
+}

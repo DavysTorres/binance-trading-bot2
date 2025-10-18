@@ -1,0 +1,10 @@
+{
+    "fecha": "2025-10-15 18:43:30",
+    "total_eventos": 25,
+    "exitos": 16,
+    "fallos": 0,
+    "simulaciones": 16,
+    "omitidos": 9,
+    "tasa_exito_%": 64.0,
+    "tasa_fallo_%": 0.0
+}

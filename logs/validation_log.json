@@ -1,0 +1,5150 @@
+[
+    {
+        "timestamp": "2025-10-16 08:04:04",
+        "symbol": "HOOKUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.53,
+        "score_confluencia": 0.45,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.0820>0.0810>0.0780"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 58.24"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00013"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 238729 vs 691098"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 13.73"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:06",
+        "symbol": "HEIUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.2331<0.2345<0.2337"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 22.02"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00065"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 8970 vs 107458"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 63.48"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:09",
+        "symbol": "LDOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.55,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.9238<0.9247<0.9218"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 35.43"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00082"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 18158 vs 50125"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 44.38"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:12",
+        "symbol": "JTOUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.18,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.1256<1.1254<1.1100"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 41.67"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00046"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 4124 vs 10376"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 35.16"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:15",
+        "symbol": "NMRUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 13.7280<13.7465<13.8400"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 31.58"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00594"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 7 vs 337"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.20"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:17",
+        "symbol": "PENDLEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.6,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 3.3939<3.3947<3.3452"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.54"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00237"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1318 vs 8800"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 25.27"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:20",
+        "symbol": "PROVEUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.65,
+        "score_confluencia": 0.25,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.7898>0.7853>0.7759"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 78.85"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00061"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 11567 vs 18049"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 10.39"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:23",
+        "symbol": "PHBUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4687<0.4691<0.4674"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 25.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00055"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 3112 vs 8379"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 41.04"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:26",
+        "symbol": "PSGUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.43,
+        "score_confluencia": 0.45,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.2969>1.2958>1.2942"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 60.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00024"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 153 vs 1113"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 19.74"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:28",
+        "symbol": "SNXUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.23,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.6412<1.6408<1.6137"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.00"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00111"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 14366 vs 34098"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 21.49"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:30",
+        "symbol": "SUPERUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.25,
+        "score_confluencia": 0.2,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4586<0.4608<0.4602"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 16.35"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00074"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 11518 vs 30503"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 56.47"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:32",
+        "symbol": "TAOUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.53,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 407.0529>405.7133>398.0962"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 57.32"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: 0.14692"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 247 vs 509"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 16.72"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:35",
+        "symbol": "VIRTUALUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.7,
+        "score_confluencia": 0.6,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.8481>0.8442>0.8205"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 64.14"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00009"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 658144 vs 240134"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 12.29"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:37",
+        "symbol": "THETAUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.18,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.5792<0.5787<0.5743"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00012"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 745 vs 13811"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 37.28"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:04:41",
+        "symbol": "UMAUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.43,
+        "score_confluencia": 0.45,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.0803>1.0782>1.0666"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 60.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00006"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 53 vs 4533"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 18.12"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:16",
+        "symbol": "HOOKUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.0816>0.0811>0.0784"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 51.49"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00020"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 378439 vs 785723"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 21.84"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:19",
+        "symbol": "HEIUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2315<0.2334<0.2337"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 13.11"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00065"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 57504 vs 107268"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 60.95"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:21",
+        "symbol": "LDOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.9218<0.9235<0.9221"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 34.47"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00086"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 4785 vs 42083"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.12"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:24",
+        "symbol": "JTOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.1239<1.1245<1.1110"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 37.50"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00084"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 2668 vs 10603"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 47.97"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:26",
+        "symbol": "NMRUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.37,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 13.7259<13.7417<13.8475"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 44.83"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00141"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 15 vs 288"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 41.56"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:29",
+        "symbol": "PENDLEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.37,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 3.3906<3.3929<3.3464"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 41.98"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00222"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 660 vs 6468"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 35.75"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:31",
+        "symbol": "PROVEUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.33,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.7874>0.7850>0.7762"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00109"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 14493 vs 19180"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 22.90"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:34",
+        "symbol": "PHBUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4678<0.4686<0.4672"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 25.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00051"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1535 vs 8609"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 43.43"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:37",
+        "symbol": "PSGUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.25,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.2953>1.2952>1.2937"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 45.45"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00057"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 3234 vs 1307"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 26.62"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:40",
+        "symbol": "SNXUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.6407<1.6407<1.6124"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.24"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00108"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 4725 vs 36704"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 19.12"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:41",
+        "symbol": "SUPERUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.35,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.4560<0.4590<0.4595"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 22.84"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00087"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 20561 vs 29809"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 65.25"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:44",
+        "symbol": "TAOUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.35,
+        "score_confluencia": 0.2,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 407.4088>406.1948>398.6371"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 60.48"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.04537"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 145 vs 506"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 15.26"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:46",
+        "symbol": "VIRTUALUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.8487>0.8453>0.8205"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 41.59"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00015"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 162712 vs 256822"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 10.31"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bullish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:52",
+        "symbol": "THETAUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.32,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.5784<0.5784<0.5746"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 47.06"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00045"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1119 vs 11629"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 43.13"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:55",
+        "symbol": "UMAUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.18,
+        "score_confluencia": 0.2,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.0801<1.0786<1.0675"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00043"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1621 vs 3682"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 19.44"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:13:58",
+        "symbol": "ZKCUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.7,
+        "score_confluencia": 0.65,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2503>0.2321>0.1931"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 67.96"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: 0.00223"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1171991 vs 1696250"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 13.73"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:14:04",
+        "symbol": "YBUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.38,
+        "score_confluencia": 0.25,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.5989>0.5981>0.6289"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 42.32"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00070"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 157100 vs 123132"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 42.60"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:14:06",
+        "symbol": "YGGUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.1665<0.1672<0.1657"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 25.29"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00046"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 50516 vs 216720"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 39.23"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:14:08",
+        "symbol": "ZECUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 236.1428<236.8950<237.2588"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 29.57"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.52348"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 469 vs 910"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 38.03"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:14:11",
+        "symbol": "XPLUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4769<0.4797<0.4746"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 7.89"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00232"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 2221822 vs 2577907"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 37.92"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:24:45",
+        "symbol": "HOOKUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.0811>0.0809>0.0788"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 51.02"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00029"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 264502 vs 646779"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 34.82"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bullish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:24:47",
+        "symbol": "HEIUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2289<0.2315<0.2336"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 18.35"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00061"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 16819 vs 112412"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 67.65"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:24:50",
+        "symbol": "LDOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.9215<0.9229<0.9211"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 40.97"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00031"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 10939 vs 41269"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 39.94"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:24:52",
+        "symbol": "JTOUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.53,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.1443>1.1365>1.1139"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 53.85"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: 0.00247"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 32435 vs 179382"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 33.88"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:24:55",
+        "symbol": "NMRUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.55,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 13.6876<13.7174<13.8113"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 33.33"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00938"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 285 vs 305"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 44.17"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:03",
+        "symbol": "PENDLEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.65,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 3.3903<3.3923<3.3469"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 43.04"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00108"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 13389 vs 6172"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 37.93"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:05",
+        "symbol": "PROVEUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.7848>0.7843>0.7754"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 42.81"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00148"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 9188 vs 20307"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 38.87"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:09",
+        "symbol": "PHBUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.32,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4672<0.4681<0.4663"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 42.11"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00027"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 6194 vs 8894"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 39.10"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:11",
+        "symbol": "PSGUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.2927<1.2939<1.2918"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 30.77"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00095"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 37 vs 1273"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 35.54"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:14",
+        "symbol": "SNXUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.6367<1.6384<1.6109"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 46.97"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00112"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 33648 vs 47078"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 21.59"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:17",
+        "symbol": "SUPERUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.4531<0.4567<0.4589"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 20.42"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00070"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 20269 vs 39522"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 70.59"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:19",
+        "symbol": "TAOUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 407.1490>406.3916>399.0024"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 49.01"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.30388"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 59 vs 465"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 24.14"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:23",
+        "symbol": "VIRTUALUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.1,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.8480<0.8460<0.8189"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 35.71"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00111"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 79772 vs 270794"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 10.33"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:25",
+        "symbol": "THETAUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.5775<0.5779<0.5745"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 33.33"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00047"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1498 vs 12732"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 49.43"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:27",
+        "symbol": "UMAUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.13,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.0781<1.0778<1.0665"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 42.11"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00082"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1788 vs 3477"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 28.40"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:30",
+        "symbol": "ZKCUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.2472>0.2354>0.1948"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 53.58"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00286"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 596640 vs 1848268"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 23.93"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:33",
+        "symbol": "YBUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.5951<0.5963<0.6226"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 33.43"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00147"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 129375 vs 127263"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 49.89"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:35",
+        "symbol": "YGGUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.1655<0.1665<0.1658"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 20.21"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00034"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 212780 vs 252869"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.48"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:38",
+        "symbol": "ZECUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 234.9457<236.0679<237.3607"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 30.38"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.45301"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 207 vs 966"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 41.90"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:41",
+        "symbol": "XPLUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4733<0.4771<0.4736"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 23.60"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00160"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 403046 vs 2258418"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 43.95"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:44",
+        "symbol": "ALICEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.4005<0.4032<0.4099"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 34.22"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00080"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 49553 vs 58942"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 56.05"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:47",
+        "symbol": "2ZUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.2603<0.2608<0.2600"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 20.93"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00056"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 130162 vs 395527"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 44.90"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:49",
+        "symbol": "0GUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.35,
+        "score_confluencia": 0.65,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 2.0522<2.0580<2.0592"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 23.08"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00331"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 635 vs 7997"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.92"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:52",
+        "symbol": "ALPINEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.9548<0.9564<0.9498"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 29.41"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00121"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 3200 vs 6673"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 56.69"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:54",
+        "symbol": "AAVEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 243.6466<243.7797<242.1546"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.14"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.10752"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 54 vs 140"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 43.43"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 08:25:58",
+        "symbol": "ADAUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.6782<0.6787<0.6738"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 34.69"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00048"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 88604 vs 208780"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.20"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 13:47:56",
+        "symbol": "BELUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3018<0.3028<0.3667"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 28.38"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00064"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 80336 vs 194777"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 42.53"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.17"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 13:47:59",
+        "symbol": "ASTERUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.6,
+        "score_confluencia": 0.45,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.2909>1.2867>1.2892"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 67.21"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00092"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 338521 vs 289066"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 27.54"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "alcista | score=0.34"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 13:58:28",
+        "symbol": "BELUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.03,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.3032<0.3032<0.3653"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 58.44"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00036"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 10225 vs 154197"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 37.23"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.04"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 13:58:33",
+        "symbol": "ASTERUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.2888>1.2867>1.2885"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 49.15"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00093"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 126477 vs 316577"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 34.35"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "alcista | score=0.28"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 13:58:36",
+        "symbol": "DASHUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 44.7800<44.9652<46.3293"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 35.00"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.02634"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 53 vs 634"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 45.56"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.22"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:09:06",
+        "symbol": "BELUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.1,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3030<0.3031<0.3620"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 64.50"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00009"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 17792 vs 143166"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 36.13"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.25"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:09:10",
+        "symbol": "ASTERUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.23,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.2867<1.2862<1.2888"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.00"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00130"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 594 vs 299111"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 36.47"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.4"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:09:14",
+        "symbol": "DASHUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 44.4942<44.7626<46.2988"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 29.35"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.05806"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 5 vs 709"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.82"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.47"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:09:17",
+        "symbol": "EULUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.53,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 7.4828>7.4676>7.6129"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 59.86"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00090"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 29 vs 1504"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 32.27"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            },
+            "contexto": {
+                "ok": false,
+                "detail": "bajista | score=-0.32"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:09:20",
+        "symbol": "ENSOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 2.1924<2.2043<2.3011"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 31.29"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00660"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 990 vs 10563"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 38.82"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.64"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:09:23",
+        "symbol": "FILUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.5237<1.5281<1.5610"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 46.88"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00055"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1023 vs 41338"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 47.27"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.38"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:19:42",
+        "symbol": "DASHUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 44.4663<44.6938<46.2674"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 32.79"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00516"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 189 vs 615"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 48.42"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.34"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:19:45",
+        "symbol": "EULUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.28,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 7.4756>7.4668>7.6124"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 51.81"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00336"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 310 vs 1301"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 32.83"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bullish=True"
+            },
+            "contexto": {
+                "ok": false,
+                "detail": "bajista | score=-0.32"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:19:49",
+        "symbol": "ENSOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 2.1797<2.1955<2.2921"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 24.44"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00618"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 6164 vs 10918"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 46.46"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.01"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:19:53",
+        "symbol": "FILUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.85,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.5186<1.5245<1.5599"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 35.00"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00126"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 18391 vs 41417"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 52.32"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.19"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:19:55",
+        "symbol": "ICPUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 3.1860<3.1974<3.2797"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 36.17"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00090"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 2912 vs 12057"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 27.97"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.38"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:19:59",
+        "symbol": "INJUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 8.7209<8.7424<8.9599"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 37.50"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00458"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1232 vs 1821"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 28.64"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.22"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:30:28",
+        "symbol": "EULUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.53,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 7.4846>7.4736>7.5994"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 54.65"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00074"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 208 vs 1188"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 32.35"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.25"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:30:30",
+        "symbol": "ENSOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 2.1722<2.1872<2.2888"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 31.11"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00179"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 2845 vs 12584"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 52.54"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.29"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:30:37",
+        "symbol": "FILUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.85,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.5113<1.5189<1.5601"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 31.25"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00143"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 8637 vs 54376"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 63.28"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.43"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:30:41",
+        "symbol": "ICPUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.75,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 3.1729<3.1873<3.2824"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 30.93"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00189"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1651 vs 11644"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 40.37"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.41"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:30:44",
+        "symbol": "INJUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.85,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 8.6794<8.7141<8.9603"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 32.35"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00877"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 148 vs 2142"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 42.00"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.43"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:30:47",
+        "symbol": "KDAUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.65,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2282<0.2296<0.2375"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 31.86"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00020"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 2571 vs 25787"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 52.33"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.16"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:25",
+        "symbol": "ICPUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 3.1610<3.1781<3.2765"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 24.07"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00261"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 15445 vs 10442"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 48.80"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.19"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:28",
+        "symbol": "INJUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 8.6408<8.6866<8.9380"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 24.32"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.01113"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 10154 vs 2502"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.06"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.17"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:31",
+        "symbol": "KDAUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2273<0.2289<0.2369"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 25.89"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00020"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 68418 vs 29598"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 60.80"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.18"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:35",
+        "symbol": "LQTYUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.25,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.5191<0.5224<0.5378"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 19.05"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00095"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 5844 vs 1925"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 46.84"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.13"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:38",
+        "symbol": "LISTAUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3289<0.3302<0.3371"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 28.37"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00031"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 27674 vs 25447"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 48.29"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.2"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:41",
+        "symbol": "LDOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.4,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.8923<0.8962<0.9089"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 29.65"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00107"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 67093 vs 55945"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 55.77"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.44"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:44",
+        "symbol": "OPENUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.6,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3628<0.3639<0.3759"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 25.37"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00045"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 35188 vs 15838"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 42.18"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.18"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:47",
+        "symbol": "NXPCUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3437<0.3452<0.3556"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 25.20"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00043"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 22768 vs 16774"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.02"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.18"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:51",
+        "symbol": "MORPHOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.7869<1.7966<1.8795"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 14.75"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00288"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 18400 vs 12773"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 56.37"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.11"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:41:53",
+        "symbol": "OPUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.3,
+        "score_confluencia": 0.6,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.4324<0.4349<0.4474"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 19.28"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00057"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 189192 vs 104294"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 55.52"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.16"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:30",
+        "symbol": "KDAUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.2271<0.2283<0.2366"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 44.33"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00017"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1419 vs 29585"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 60.06"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.35"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:33",
+        "symbol": "LQTYUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.5177<0.5207<0.5367"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 36.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00010"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 2554 vs 2395"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 55.01"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.32"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:35",
+        "symbol": "LISTAUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.03,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.3289<0.3298<0.3367"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 43.86"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00012"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 15796 vs 25196"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.59"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.35"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:37",
+        "symbol": "LDOUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.03,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.8919<0.8949<0.9082"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 45.83"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00028"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 23779 vs 52392"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 60.62"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.26"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:40",
+        "symbol": "OPENUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.03,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.3626<0.3635<0.3756"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 48.30"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00008"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 17567 vs 16079"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 48.76"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.37"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:44",
+        "symbol": "NXPCUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.3429<0.3444<0.3552"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 40.82"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00003"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 7382 vs 17367"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 57.70"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.27"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:47",
+        "symbol": "MORPHOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.7808<1.7905<1.8740"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 32.31"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00074"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 5404 vs 12758"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 61.40"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.3"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:50",
+        "symbol": "OPUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.4317<0.4338<0.4467"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 41.46"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00009"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 84204 vs 122004"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 61.20"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.33"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 14:52:52",
+        "symbol": "RAYUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.7968<1.8067<1.8690"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 41.46"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00009"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 3771 vs 7465"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 61.47"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.32"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:03:27",
+        "symbol": "OPENUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.1,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.3634<0.3637<0.3757"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 52.67"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00042"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 981 vs 14183"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 40.92"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.2"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:03:29",
+        "symbol": "NXPCUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.2,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3423<0.3436<0.3551"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 36.99"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00002"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 657 vs 15261"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 51.29"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.31"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:03:34",
+        "symbol": "MORPHOUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.2,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.7778<1.7863<1.8692"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 35.71"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00049"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 781 vs 12475"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 47.31"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.28"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:03:36",
+        "symbol": "OPUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.15,
+        "score_confluencia": 0.65,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.4310<0.4329<0.4467"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 37.21"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00017"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 105948 vs 134279"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 54.34"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.3"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:03:39",
+        "symbol": "RAYUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.15,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.7957<1.8036<1.8692"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.16"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00113"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 5344 vs 8576"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.57"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.29"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:14:01",
+        "symbol": "RAYUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.65,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.7943<1.8013<1.8674"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 44.59"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00104"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 3106 vs 8808"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 49.30"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.26"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:14:03",
+        "symbol": "THEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2747<0.2757<0.2829"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 44.59"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00001"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 7323 vs 24284"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.16"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.31"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:24:35",
+        "symbol": "THEUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.2747<0.2754<0.2825"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 54.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00010"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 88 vs 20070"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 49.18"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.34"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:24:39",
+        "symbol": "YBUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Alcista Avanzado",
+        "score_total": 0.65,
+        "score_confluencia": 0.2,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.5401>0.5352>0.5538"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 86.81"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: 0.00236"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 15722 vs 91849"
+            },
+            "adx": {
+                "ok": false,
+                "detail": "ADX: 15.05"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "alcista | score=0.6"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:24:42",
+        "symbol": "XPLUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.4296<0.4305<0.4483"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 53.12"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00008"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 151792 vs 615807"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 36.51"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.4"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 15:24:44",
+        "symbol": "WIFUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.32,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.5191<0.5206<0.5337"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 47.62"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00017"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 670 vs 252909"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 60.02"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.38"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:07:02",
+        "symbol": "ALICEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3694<0.3708<0.3719"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 31.19"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00016"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 3879 vs 23840"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 33.71"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.25"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:07:05",
+        "symbol": "ARUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.8,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 4.0763<4.0794<4.0999"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 36.36"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00173"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 2881 vs 1632"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 38.50"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.3"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:17:30",
+        "symbol": "ALICEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3686<0.3701<0.3709"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.89"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00013"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 7365 vs 23842"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 34.11"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.4"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:17:32",
+        "symbol": "ARUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.55,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 4.0710<4.0760<4.0922"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 36.36"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00223"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 470 vs 1453"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 43.36"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.35"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:17:39",
+        "symbol": "AVNTUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.37,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.5464<0.5474<0.5506"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 43.38"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00025"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 12096 vs 22443"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 24.74"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.27"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:28:08",
+        "symbol": "ALICEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.3677<0.3692<0.3702"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 35.78"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00007"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 399 vs 23005"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 37.31"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.39"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:28:13",
+        "symbol": "ARUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.55,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 4.0606<4.0691<4.0882"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.46"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00289"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 7 vs 1352"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 47.89"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.4"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:28:21",
+        "symbol": "AVNTUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.35,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.5437<0.5457<0.5508"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 29.28"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00070"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 43738 vs 26904"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 36.33"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.13"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:28:24",
+        "symbol": "DASHUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.7,
+        "valida": true,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 42.3336<42.4342<42.9199"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 39.07"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.04295"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 182 vs 759"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 54.21"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.38"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:05",
+        "symbol": "AVNTUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 0.5408<0.5435<0.5495"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 33.58"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00063"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 0 vs 92857"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 52.28"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.17"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:08",
+        "symbol": "DASHUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.2,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 42.3546<42.4156<42.9555"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 51.50"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.01131"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 0 vs 714"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.16"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=0.31"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:11",
+        "symbol": "CAKEUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.2,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 2.9210<2.9259<2.9169"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 28.30"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00084"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 5 vs 9589"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 39.02"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.32"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:14",
+        "symbol": "EULUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.5,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 7.1266<7.1683<7.3209"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 26.25"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00262"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 17 vs 2160"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 59.51"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.37"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:16",
+        "symbol": "FORMUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.27,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.9042<0.9048<0.9029"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 46.46"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00000"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 204 vs 36486"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 30.31"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.32"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:19",
+        "symbol": "ENSOUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.45,
+        "score_confluencia": 0.5,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 2.2460<2.2655<2.2354"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 32.99"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: -0.00404"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 855 vs 12066"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 55.68"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.41"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:39:23",
+        "symbol": "FILUSDT",
+        "tipo": "short",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.55,
+        "score_confluencia": 0.4,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 1.4885<1.4919<1.4963"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 29.17"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: -0.00038"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 134 vs 30095"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 52.12"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.33"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:49:46",
+        "symbol": "DASHUSDT",
+        "tipo": "long",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.63,
+        "score_confluencia": 0.6,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 42.5088>42.4862>42.9192"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.32"
+            },
+            "macd": {
+                "ok": true,
+                "detail": "MACD hist: 0.05341"
+            },
+            "vol": {
+                "ok": true,
+                "detail": "Vol: 908 vs 652"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 40.19"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bullish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.21"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:49:49",
+        "symbol": "CAKEUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.12,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 2.9240<2.9265<2.9155"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 47.17"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00112"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 1259 vs 10432"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 34.21"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.26"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:49:53",
+        "symbol": "EULUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.02,
+        "score_confluencia": 0.55,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": true,
+                "detail": "EMA: 7.1211<7.1566<7.3155"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 42.55"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00311"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 400 vs 2203"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 50.50"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "bajista | score=-0.31"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:49:56",
+        "symbol": "FORMUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": 0.08,
+        "score_confluencia": 0.3,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 0.9045<0.9048<0.9032"
+            },
+            "rsi": {
+                "ok": false,
+                "detail": "RSI: 52.17"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00018"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 11489 vs 37049"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 29.62"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.3"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:49:59",
+        "symbol": "ENSOUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.15,
+        "score_confluencia": 0.45,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 2.2471<2.2619<2.2347"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 38.30"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00122"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 6782 vs 11636"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 44.03"
+            },
+            "pattern": {
+                "ok": true,
+                "detail": "bearish=True"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "alcista | score=0.32"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-10-16 21:50:02",
+        "symbol": "FILUSDT",
+        "tipo": "neutro",
+        "estrategia": "Momentum Bajista Avanzado",
+        "score_total": -0.12,
+        "score_confluencia": 0.35,
+        "valida": false,
+        "detalles": {
+            "ema": {
+                "ok": false,
+                "detail": "EMA: 1.4900<1.4920<1.4957"
+            },
+            "rsi": {
+                "ok": true,
+                "detail": "RSI: 50.00"
+            },
+            "macd": {
+                "ok": false,
+                "detail": "MACD hist: 0.00071"
+            },
+            "vol": {
+                "ok": false,
+                "detail": "Vol: 3018 vs 27597"
+            },
+            "adx": {
+                "ok": true,
+                "detail": "ADX: 44.79"
+            },
+            "pattern": {
+                "ok": false,
+                "detail": "bearish=False"
+            },
+            "contexto": {
+                "ok": true,
+                "detail": "neutra | score=-0.25"
+            },
+            "timing": {
+                "ok": false,
+                "detail": "sin data 15m | etapa=indefinida | 15m=desconocida"
+            }
+        }
+    }
+]

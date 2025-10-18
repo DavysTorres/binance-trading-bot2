@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "APTUSDT",
+    "precio_entrada": 3.647,
+    "cantidad": 4.11297,
+    "stop_loss": 3.647,
+    "take_profit": 3.647,
+    "timestamp": "20251014_210250",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

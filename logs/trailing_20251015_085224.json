@@ -1,0 +1,10 @@
+{
+    "symbol": "BERAUSDT",
+    "direccion": "neutro",
+    "cantidad": 0.001,
+    "precio_entrada": 1.879,
+    "tp": 1.879,
+    "sl": 1.879,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_085224"
+}

@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "NILUSDT",
+    "side": "BUY",
+    "estrategia": "Breakout Alcista con Volumen",
+    "direccion": "long",
+    "precio_entrada": 0.2788,
+    "cantidad": 909.0,
+    "stop_loss": 0.2733,
+    "take_profit": 0.2872,
+    "timestamp": "20251015_085933",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

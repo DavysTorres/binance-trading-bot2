@@ -1,0 +1,11 @@
+python-binance
+pandas
+numpy
+scikit-learn
+ta
+matplotlib
+plotly
+joblib
+flask  # opcional para UI
+rich
+seaborn

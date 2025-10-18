@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "THETAUSDT",
+    "side": "SELL",
+    "estrategia": "Ninguna se\u00f1al v\u00e1lida (Sesgo bullish, Intensidad 0.83)",
+    "direccion": "neutro",
+    "precio_entrada": 0.5630000000000001,
+    "cantidad": 0.1,
+    "stop_loss": 0.5630000000000001,
+    "take_profit": 0.5630000000000001,
+    "timestamp": "20251015_085926",
+    "simulada": true,
+    "motivo": "qty/notional insuficiente (simulaci\u00f3n)"
+}

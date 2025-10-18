@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "VIRTUALUSDT",
+    "precio_entrada": 0.814,
+    "cantidad": 18.427518,
+    "stop_loss": 0.814,
+    "take_profit": 0.814,
+    "timestamp": "20251014_210242",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

@@ -1,0 +1,10 @@
+{
+    "symbol": "BELUSDT",
+    "direccion": "short",
+    "cantidad": 806.4000000000001,
+    "precio_entrada": 0.3149,
+    "tp": 0.3054,
+    "sl": 0.3211,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_181855"
+}

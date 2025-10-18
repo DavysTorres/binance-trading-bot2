@@ -1,0 +1,42 @@
+timestamp,symbol,tipo,resultado,simulada,mensaje
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:23.644708,WIFUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:33.311928,SSVUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:42.051739,VIRTUALUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:50.190317,APTUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:23.644708,WIFUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:33.311928,SSVUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:42.051739,VIRTUALUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:50.190317,APTUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:49.706295,CYBERUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:54.982496,FORMUSDT,reevaluacion,omitido,False,No se confirmó la señal
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:23.644708,WIFUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:33.311928,SSVUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:42.051739,VIRTUALUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:50.190317,APTUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:49.706295,CYBERUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:54.982496,FORMUSDT,reevaluacion,omitido,False,No se confirmó la señal
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:23.644708,WIFUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:33.311928,SSVUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:42.051739,VIRTUALUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:50.190317,APTUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:49.706295,CYBERUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:54.982496,FORMUSDT,reevaluacion,omitido,False,No se confirmó la señal
+2025-10-14T21:23:39.047054,ENSOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T20:49:39.504723,DEGOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:23.644708,WIFUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:33.311928,SSVUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:42.051739,VIRTUALUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:02:50.190317,APTUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:49.706295,CYBERUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:09:54.982496,FORMUSDT,reevaluacion,omitido,False,No se confirmó la señal
+2025-10-14T21:23:39.047054,ENSOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:30:20.759450,MLNUSDT,reevaluacion,omitido,False,No se confirmó la señal
+2025-10-14T21:30:25.296862,XPLUSDT,reevaluacion,omitido,False,No se confirmó la señal
+2025-10-14T21:30:32.763847,ENSOUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-14T21:30:40.831877,EULUSDT,ejecucion,fallo,True,Simulación o fallo

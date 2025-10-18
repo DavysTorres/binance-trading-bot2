@@ -1,0 +1,10 @@
+{
+    "symbol": "XPLUSDT",
+    "direccion": "short",
+    "cantidad": 543.4,
+    "precio_entrada": 0.46440000000000003,
+    "tp": 0.4504,
+    "sl": 0.4736,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_172349"
+}

@@ -1,0 +1,10 @@
+{
+    "symbol": "ASTERUSDT",
+    "direccion": "short",
+    "cantidad": 199.99,
+    "precio_entrada": 1.293,
+    "tp": 1.254,
+    "sl": 1.318,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_183526"
+}

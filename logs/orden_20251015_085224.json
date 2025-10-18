@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "BERAUSDT",
+    "side": "SELL",
+    "estrategia": "Ninguna se\u00f1al v\u00e1lida (Sesgo neutral, Intensidad 0.74)",
+    "direccion": "neutro",
+    "precio_entrada": 1.879,
+    "cantidad": 0.001,
+    "stop_loss": 1.879,
+    "take_profit": 1.879,
+    "timestamp": "20251015_085224",
+    "simulada": true,
+    "motivo": "qty/notional insuficiente (simulaci\u00f3n)"
+}

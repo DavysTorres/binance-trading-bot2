@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "EULUSDT",
+    "precio_entrada": 8.9,
+    "cantidad": 1.685393,
+    "stop_loss": 8.9,
+    "take_profit": 8.9,
+    "timestamp": "20251014_213040",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

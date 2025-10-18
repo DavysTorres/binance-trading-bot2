@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "CRVUSDT",
+    "side": "SELL",
+    "estrategia": "Momentum Bajista Adaptativo",
+    "direccion": "short",
+    "precio_entrada": 0.5499,
+    "cantidad": 458.70000000000005,
+    "stop_loss": 0.5608000000000001,
+    "take_profit": 0.5334,
+    "timestamp": "20251015_173906",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

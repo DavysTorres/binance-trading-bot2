@@ -1,0 +1,602 @@
+[
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *NEUTRAL*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 2\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 11-10-2025 19:11:59",
+        "time": "2025-10-11T19:12:00.029108"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 3\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 20:29:52",
+        "time": "2025-10-14T20:29:54.582369"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 20:49:39\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEGOUSDT\n\ud83d\udcc8 *Estrategia:* Breakout Alcista con Volumen\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 0.998\n\ud83c\udfaf *Take Profit:* 0.998\n\ud83d\uded1 *Stop Loss:* 0.998\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T20:49:40.528893"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.98*\n\ud83d\udca1 Se\u00f1ales detectadas: 3\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 20:49:44",
+        "time": "2025-10-14T20:49:45.167005"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.92*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 20:55:55",
+        "time": "2025-10-14T20:55:56.742451"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:02:23\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* WIFUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.577\n\ud83c\udfaf *Take Profit:* 0.577\n\ud83d\uded1 *Stop Loss:* 0.577\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:02:25.304841"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:02:33\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* SSVUSDT\n\ud83d\udcc8 *Estrategia:* Breakout Alcista con Volumen\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 5.56\n\ud83c\udfaf *Take Profit:* 5.56\n\ud83d\uded1 *Stop Loss:* 5.56\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:02:34.352945"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:02:42\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* VIRTUALUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.814\n\ud83c\udfaf *Take Profit:* 0.814\n\ud83d\uded1 *Stop Loss:* 0.814\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:02:43.076544"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:02:50\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* APTUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 3.647\n\ud83c\udfaf *Take Profit:* 3.647\n\ud83d\uded1 *Stop Loss:* 3.647\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:02:51.389062"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.92*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 4\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 21:02:54",
+        "time": "2025-10-14T21:02:55.857929"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:09:49\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* CYBERUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 1.118\n\ud83c\udfaf *Take Profit:* 1.118\n\ud83d\uded1 *Stop Loss:* 1.118\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:09:50.720219"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.89*\n\ud83d\udca1 Se\u00f1ales detectadas: 4\n\u2705 Se\u00f1ales validadas: 2\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 21:09:59",
+        "time": "2025-10-14T21:10:00.030281"
+    },
+    {
+        "level": "INFO",
+        "symbol": "\ud83d\udcca Reporte adaptativo",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.81*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 21:16:38",
+        "time": "2025-10-14T21:16:39.809945"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:23:39\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* ENSOUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 2.673\n\ud83c\udfaf *Take Profit:* 2.673\n\ud83d\uded1 *Stop Loss:* 2.673\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:23:40.039846"
+    },
+    {
+        "level": "INFO",
+        "symbol": "\ud83d\udcca Reporte adaptativo",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.75*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 21:23:43",
+        "time": "2025-10-14T21:23:44.451635"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:30:32\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* ENSOUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 2.729\n\ud83c\udfaf *Take Profit:* 2.729\n\ud83d\uded1 *Stop Loss:* 2.729\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:30:33.830411"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-14 21:30:40\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* EULUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 8.9\n\ud83c\udfaf *Take Profit:* 8.9\n\ud83d\uded1 *Stop Loss:* 8.9\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-14T21:30:41.808934"
+    },
+    {
+        "level": "INFO",
+        "symbol": "\ud83d\udcca Reporte adaptativo",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *0.75*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 4\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 14-10-2025 21:30:44",
+        "time": "2025-10-14T21:30:46.044165"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 07:53:03\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEGOUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Alcista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 1.645\n\ud83c\udfaf *Take Profit:* 1.72\n\ud83d\uded1 *Stop Loss:* 1.594\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T07:53:04.480918"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BULLISH*\n\ud83c\udf21\ufe0f Intensidad: *0.98*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 07:53:08",
+        "time": "2025-10-15T07:53:10.001489"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 07:56:58\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEXEUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Alcista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 6.804\n\ud83c\udfaf *Take Profit:* 6.867\n\ud83d\uded1 *Stop Loss:* 6.761\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T07:56:59.672567"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 07:57:11\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEGOUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Alcista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 1.659\n\ud83c\udfaf *Take Profit:* 1.73\n\ud83d\uded1 *Stop Loss:* 1.611\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T07:57:12.511140"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BULLISH*\n\ud83c\udf21\ufe0f Intensidad: *0.99*\n\ud83d\udca1 Se\u00f1ales detectadas: 1\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 07:57:17",
+        "time": "2025-10-15T07:57:18.192236"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 08:03:52\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEXEUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Alcista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 6.777\n\ud83c\udfaf *Take Profit:* 6.84\n\ud83d\uded1 *Stop Loss:* 6.734\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T08:03:53.034493"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 08:04:11\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEGOUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Alcista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 1.6640000000000001\n\ud83c\udfaf *Take Profit:* 1.746\n\ud83d\uded1 *Stop Loss:* 1.609\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T08:04:12.431246"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BULLISH*\n\ud83c\udf21\ufe0f Intensidad: *0.89*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 3\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 08:04:16",
+        "time": "2025-10-15T08:04:17.323019"
+    },
+    {
+        "level": "INFO",
+        "symbol": "\ud83d\udcca Reporte adaptativo",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *NEUTRAL*\n\ud83c\udf21\ufe0f Intensidad: *0.75*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 5\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 08:52:26",
+        "time": "2025-10-15T08:52:27.637221"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 08:59:19\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* DEXEUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Alcista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 6.823\n\ud83c\udfaf *Take Profit:* 7.027\n\ud83d\uded1 *Stop Loss:* 6.686\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T08:59:20.936562"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 08:59:33\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* NILUSDT\n\ud83d\udcc8 *Estrategia:* Breakout Alcista con Volumen\n\ud83d\udcc9 *Direcci\u00f3n:* LONG\n\ud83d\udcb0 *Precio Entrada:* 0.2788\n\ud83c\udfaf *Take Profit:* 0.2872\n\ud83d\uded1 *Stop Loss:* 0.2733\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T08:59:34.444935"
+    },
+    {
+        "level": "INFO",
+        "symbol": "\ud83d\udcca Reporte adaptativo",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BULLISH*\n\ud83c\udf21\ufe0f Intensidad: *0.81*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 2\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 08:59:38",
+        "time": "2025-10-15T08:59:39.476738"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 3\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:09:32",
+        "time": "2025-10-15T17:09:34.245271"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 3\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:16:45",
+        "time": "2025-10-15T17:16:46.870708"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 17:23:49\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* XPLUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.46440000000000003\n\ud83c\udfaf *Take Profit:* 0.4504\n\ud83d\uded1 *Stop Loss:* 0.4736\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T17:23:50.725027"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:23:55",
+        "time": "2025-10-15T17:23:56.269315"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:31:16",
+        "time": "2025-10-15T17:31:19.096469"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 17:39:06\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* CRVUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.5499\n\ud83c\udfaf *Take Profit:* 0.5334\n\ud83d\uded1 *Stop Loss:* 0.5608000000000001\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T17:39:08.410371"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 6\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:39:12",
+        "time": "2025-10-15T17:39:13.781044"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 17:46:45\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* ASTERUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 1.309\n\ud83c\udfaf *Take Profit:* 1.2690000000000001\n\ud83d\uded1 *Stop Loss:* 1.335\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T17:46:46.611596"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:46:52",
+        "time": "2025-10-15T17:46:53.514729"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 17:54:46",
+        "time": "2025-10-15T17:54:48.134465"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "Sistema",
+        "msg": "Error durante escaneo: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10)",
+        "time": "2025-10-15T17:59:59.686030"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 18:02:20",
+        "time": "2025-10-15T18:02:22.891044"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 18:10:24\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* BERAUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 1.814\n\ud83c\udfaf *Take Profit:* 1.7590000000000001\n\ud83d\uded1 *Stop Loss:* 1.85\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T18:10:25.661255"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 18:10:33\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* BELUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.32\n\ud83c\udfaf *Take Profit:* 0.3104\n\ud83d\uded1 *Stop Loss:* 0.3264\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T18:10:35.367192"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 4\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 18:10:40",
+        "time": "2025-10-15T18:10:42.927729"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 18:18:55\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* BELUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.3149\n\ud83c\udfaf *Take Profit:* 0.3054\n\ud83d\uded1 *Stop Loss:* 0.3211\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T18:18:56.344615"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 1\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 18:19:00",
+        "time": "2025-10-15T18:19:01.760883"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 18:27:01\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* BELUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 0.315\n\ud83c\udfaf *Take Profit:* 0.3055\n\ud83d\uded1 *Stop Loss:* 0.32120000000000004\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T18:27:03.003801"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 18:27:08\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* SNXUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 1.723\n\ud83c\udfaf *Take Profit:* 1.671\n\ud83d\uded1 *Stop Loss:* 1.7570000000000001\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T18:27:09.366617"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 2\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 18:27:14",
+        "time": "2025-10-15T18:27:15.674054"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcb6 *TraindingBotBinanceAnalitics* \ud83d\udcb6\ud83d\udcc8\ud83d\udcc9\n\ud83e\udde0 *Sistema*\n\ud83d\udd52 2025-10-15 18:35:26\n\n\ud83d\udcca *Orden Simulada Confirmada*\n\ud83d\udc8e *S\u00edmbolo:* ASTERUSDT\n\ud83d\udcc8 *Estrategia:* Momentum Bajista Adaptativo\n\ud83d\udcc9 *Direcci\u00f3n:* SHORT\n\ud83d\udcb0 *Precio Entrada:* 1.293\n\ud83c\udfaf *Take Profit:* 1.254\n\ud83d\uded1 *Stop Loss:* 1.318\n\u2699\ufe0f *Modo:* Simulaci\u00f3n",
+        "time": "2025-10-15T18:35:27.763468"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 0\n\u2705 Se\u00f1ales validadas: 0\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 18:35:32",
+        "time": "2025-10-15T18:35:34.163287"
+    },
+    {
+        "level": "WARNING",
+        "symbol": "\u26a0\ufe0f Alta intensidad de mercado",
+        "msg": "\ud83d\udcca *REPORTE ADAPTATIVO DEL CICLO*\n\n\ud83e\udded Sesgo: *BEARISH*\n\ud83c\udf21\ufe0f Intensidad: *1.0*\n\ud83d\udca1 Se\u00f1ales detectadas: 1\n\u2705 Se\u00f1ales validadas: 1\n\ud83d\udcc8 Trades abiertos: 0\n\ud83d\udcc9 Trades cerrados: 0\n\n\ud83d\udd52 15-10-2025 18:43:33",
+        "time": "2025-10-15T18:43:34.553997"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-15 23:29:07\n\ud83d\udd0d Se\u00f1ales detectadas: 5\n",
+        "time": "2025-10-15T23:29:08.900464"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-15 23:39:34\n\ud83d\udd0d Se\u00f1ales detectadas: 1\n",
+        "time": "2025-10-15T23:39:35.868895"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-15 23:50:18\n\ud83d\udd0d Se\u00f1ales detectadas: 3\n",
+        "time": "2025-10-15T23:50:19.648542"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 00:01:13\n\ud83d\udd0d Se\u00f1ales detectadas: 5\n",
+        "time": "2025-10-16T00:01:14.093271"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "Sistema",
+        "msg": "Error cr\u00edtico en el ciclo principal: Object of type bool is not JSON serializable",
+        "time": "2025-10-16T07:57:39.374824"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "Sistema",
+        "msg": "Error cr\u00edtico en el ciclo principal: Object of type bool is not JSON serializable",
+        "time": "2025-10-16T07:58:58.435908"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "Sistema",
+        "msg": "Error cr\u00edtico en el ciclo principal: Object of type bool is not JSON serializable",
+        "time": "2025-10-16T08:00:28.159409"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "Sistema",
+        "msg": "Error cr\u00edtico en el ciclo principal: Object of type bool is not JSON serializable",
+        "time": "2025-10-16T08:01:51.374715"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "Sistema",
+        "msg": "Error cr\u00edtico en el ciclo principal: Object of type bool is not JSON serializable",
+        "time": "2025-10-16T08:03:18.701165"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 08:04:41\n\ud83d\udd0d Se\u00f1ales detectadas: 4\n",
+        "time": "2025-10-16T08:04:42.311469"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ZKCUSDT (LONG) | Score=0.70",
+        "time": "2025-10-16T08:13:59.885123"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 08:14:15\n\ud83d\udd0d Se\u00f1ales detectadas: 5\n",
+        "time": "2025-10-16T08:14:16.284537"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para NMRUSDT (SHORT) | Score=-0.55",
+        "time": "2025-10-16T08:24:57.541833"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "ZKCUSDT",
+        "msg": "\ud83d\udd34 ZKCUSDT cerrado \u2014 Stop Loss alcanzado. \u0394%=-10.66 | Score=0.50 | Confluencia=0.30",
+        "time": "2025-10-16T08:26:05.305581"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 08:26:08\n\ud83d\udd0d Se\u00f1ales detectadas: 6\n",
+        "time": "2025-10-16T08:26:09.486453"
+    },
+    {
+        "level": "INFO",
+        "symbol": "NMRUSDT",
+        "msg": "\ud83d\udfe2 NMRUSDT cerrado \u2014 Take Profit alcanzado. \u0394%=-1.91 | Score=0.50 | Confluencia=0.50",
+        "time": "2025-10-16T13:48:05.571005"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 13:48:05\n\ud83d\udd0d Se\u00f1ales detectadas: 2\n",
+        "time": "2025-10-16T13:48:06.630739"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 13:58:36\n\ud83d\udd0d Se\u00f1ales detectadas: 1\n",
+        "time": "2025-10-16T13:58:37.677932"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 14:09:23\n\ud83d\udd0d Se\u00f1ales detectadas: 3\n",
+        "time": "2025-10-16T14:09:24.032366"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 14:19:59\n\ud83d\udd0d Se\u00f1ales detectadas: 2\n",
+        "time": "2025-10-16T14:20:00.849058"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ENSOUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T14:30:32.285917"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ENSOUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T14:30:33.413007"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para KDAUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T14:30:48.936456"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para KDAUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T14:30:49.992947"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 14:30:59\n\ud83d\udd0d Se\u00f1ales detectadas: 4\n",
+        "time": "2025-10-16T14:31:00.619389"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 14:42:03\n\ud83d\udd0d Se\u00f1ales detectadas: 4\n",
+        "time": "2025-10-16T14:42:04.734790"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "ENSOUSDT",
+        "msg": "\ud83d\udd34 ENSOUSDT cerrado \u2014 Stop Loss alcanzado. \u0394%=0.46 | Score=0.10 | Confluencia=0.10",
+        "time": "2025-10-16T14:52:59.332296"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "KDAUSDT",
+        "msg": "\ud83d\udd34 KDAUSDT cerrado \u2014 Stop Loss alcanzado. \u0394%=0.97 | Score=0.10 | Confluencia=0.30",
+        "time": "2025-10-16T14:53:04.053227"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 14:53:04\n\ud83d\udd0d Se\u00f1ales detectadas: 1\n",
+        "time": "2025-10-16T14:53:05.177342"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 15:03:39\n\ud83d\udd0d Se\u00f1ales detectadas: 0\n",
+        "time": "2025-10-16T15:03:40.928529"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 15:14:03\n\ud83d\udd0d Se\u00f1ales detectadas: 1\n",
+        "time": "2025-10-16T15:14:04.929454"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 15:24:44\n\ud83d\udd0d Se\u00f1ales detectadas: 3\n",
+        "time": "2025-10-16T15:24:45.678858"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ARUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T21:07:07.524711"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ARUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T21:07:08.567562"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 21:07:14\n\ud83d\udd0d Se\u00f1ales detectadas: 2\n",
+        "time": "2025-10-16T21:07:15.285338"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ARUSDT (SHORT) | Score=-0.55",
+        "time": "2025-10-16T21:17:34.522122"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ARUSDT (SHORT) | Score=-0.55",
+        "time": "2025-10-16T21:17:35.561360"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 21:17:46\n\ud83d\udd0d Se\u00f1ales detectadas: 1\n",
+        "time": "2025-10-16T21:17:47.792532"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ARUSDT (SHORT) | Score=-0.55",
+        "time": "2025-10-16T21:28:14.872894"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para ARUSDT (SHORT) | Score=-0.55",
+        "time": "2025-10-16T21:28:15.880102"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para DASHUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T21:28:26.841156"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcc8 Simulaci\u00f3n ejecutada para DASHUSDT (SHORT) | Score=-0.45",
+        "time": "2025-10-16T21:28:27.976342"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 21:28:38\n\ud83d\udd0d Se\u00f1ales detectadas: 2\n",
+        "time": "2025-10-16T21:28:39.534132"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "DASHUSDT",
+        "msg": "\ud83d\udd34 DASHUSDT cerrado \u2014 Stop Loss alcanzado. \u0394%=1.09 | Score=0.10 | Confluencia=0.30",
+        "time": "2025-10-16T21:39:33.922206"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 21:39:33\n\ud83d\udd0d Se\u00f1ales detectadas: 4\n",
+        "time": "2025-10-16T21:39:34.987482"
+    },
+    {
+        "level": "CRITICAL",
+        "symbol": "ARUSDT",
+        "msg": "\ud83d\udd34 ARUSDT cerrado \u2014 Stop Loss alcanzado. \u0394%=0.74 | Score=0.10 | Confluencia=0.30",
+        "time": "2025-10-16T21:50:10.022983"
+    },
+    {
+        "level": "INFO",
+        "symbol": "Sistema",
+        "msg": "\ud83d\udcca *Resumen del Ciclo*\n\ud83d\udd52 2025-10-16 21:50:10\n\ud83d\udd0d Se\u00f1ales detectadas: 0\n",
+        "time": "2025-10-16T21:50:11.068194"
+    }
+]

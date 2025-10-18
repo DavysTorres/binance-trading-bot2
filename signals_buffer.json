@@ -1,0 +1,614 @@
+[
+    {
+        "symbol": "DEXEUSDT",
+        "timestamp": "2025-10-11T18:59:45.729574",
+        "score": 0,
+        "detalles": {
+            "EMA_fast": 5.8632235312650085,
+            "EMA_slow": 5.890229608004569,
+            "RSI_14": 32.885905731273624,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "CYBERUSDT",
+        "timestamp": "2025-10-11T03:06:52.264284",
+        "score": 0,
+        "detalles": {
+            "EMA_fast": 1.0050440168221377,
+            "EMA_slow": 1.0053194152520841,
+            "RSI_14": 29.411763494809833,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "FORMUSDT",
+        "timestamp": "2025-10-15T22:36:31.154912",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 48.014438006490515,
+            "MACD": -0.001929140747681135,
+            "ADX": NaN,
+            "StochRSI": 68.83441853300153,
+            "patron_vela": "none",
+            "confianza": 0.5,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "MLNUSDT",
+        "timestamp": "2025-10-11T17:24:46.749267",
+        "score": 0,
+        "detalles": {
+            "EMA_fast": 5.639646404161766,
+            "EMA_slow": 5.640657447634644,
+            "RSI_14": 55.55555512345669,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "XPLUSDT",
+        "timestamp": "2025-10-15T01:54:57.854577",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 45.45454205153167,
+            "MACD": -0.0021949144089821737,
+            "ADX": NaN,
+            "StochRSI": 82.11950091899047,
+            "patron_vela": "none",
+            "confianza": 0.55,
+            "sesgo": "bearish",
+            "intensidad": 0.9342866242038216
+        }
+    },
+    {
+        "symbol": "WIFUSDT",
+        "timestamp": "2025-10-15T22:07:45.351522",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 44.999996850000215,
+            "MACD": -0.001214130958039683,
+            "ADX": NaN,
+            "StochRSI": 19.250000589038546,
+            "patron_vela": "none",
+            "confianza": 0.55,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "BERAUSDT",
+        "timestamp": "2025-10-15T22:21:58.402511",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 48.2142845089286,
+            "MACD": -0.0002646131326937695,
+            "ADX": NaN,
+            "StochRSI": 51.38888925512125,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "DEGOUSDT",
+        "timestamp": "2025-10-11T18:59:51.085794",
+        "score": 0,
+        "detalles": {
+            "EMA_fast": 0.6916824358386967,
+            "EMA_slow": 0.6919988939292182,
+            "RSI_14": 38.88888586419777,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "INJUSDT",
+        "timestamp": "2025-10-11T23:47:58.538683",
+        "score": 0,
+        "detalles": {
+            "close": 8.46,
+            "min_20": 8.47
+        }
+    },
+    {
+        "symbol": "SSVUSDT",
+        "timestamp": "2025-10-15T01:29:03.842211",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 38.636363226584244,
+            "MACD": -0.009565038824709937,
+            "ADX": NaN,
+            "StochRSI": 31.93578980114783,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 0.9944687898089173
+        }
+    },
+    {
+        "symbol": "SOMIUSDT",
+        "timestamp": "2025-10-15T01:29:08.150627",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 39.13043137996258,
+            "MACD": -0.0007461443325036399,
+            "ADX": NaN,
+            "StochRSI": 18.28767306986666,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 0.9950512738853503
+        }
+    },
+    {
+        "symbol": "SUIUSDT",
+        "timestamp": "2025-10-15T23:24:17.802191",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 52.15577088987398,
+            "MACD": -0.0007401656262473466,
+            "ADX": NaN,
+            "StochRSI": 99.9999999995256,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "VIRTUALUSDT",
+        "timestamp": "2025-10-15T01:48:21.603976",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 49.63503142415741,
+            "MACD": -0.00230728105556266,
+            "ADX": NaN,
+            "StochRSI": 99.99999999967795,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 0.9942770700636944
+        }
+    },
+    {
+        "symbol": "VANAUSDT",
+        "timestamp": "2025-10-15T01:48:25.622877",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 65.1515137695135,
+            "MACD": -0.000859760686638289,
+            "ADX": NaN,
+            "StochRSI": 99.99999999957227,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 0.9939066878980892
+        }
+    },
+    {
+        "symbol": "THETAUSDT",
+        "timestamp": "2025-10-15T01:48:33.636839",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 57.142851428572,
+            "MACD": -0.0006172694591612959,
+            "ADX": NaN,
+            "StochRSI": 99.99999999954231,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 0.9904254777070063
+        }
+    },
+    {
+        "symbol": "ZENUSDT",
+        "timestamp": "2025-10-15T22:07:55.665357",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 49.30139706782048,
+            "MACD": -0.05506921153091682,
+            "ADX": NaN,
+            "StochRSI": 95.83337299267734,
+            "patron_vela": "bullish_engulfing",
+            "confianza": 0.75,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "0GUSDT",
+        "timestamp": "2025-10-15T22:14:45.908985",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 35.849055656817384,
+            "MACD": -0.005679636949813549,
+            "ADX": NaN,
+            "StochRSI": 33.533447479226965,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "APTUSDT",
+        "timestamp": "2025-10-15T02:01:09.105291",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 54.65116190102753,
+            "MACD": -0.0018461516267649358,
+            "ADX": NaN,
+            "StochRSI": 74.33460073665333,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 0.9107041401273885
+        }
+    },
+    {
+        "symbol": "BELUSDT",
+        "timestamp": "2025-10-15T02:08:03.258790",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 34.82142421875069,
+            "MACD": -0.0007428412237315274,
+            "ADX": NaN,
+            "StochRSI": 51.071431025776135,
+            "patron_vela": "none",
+            "confianza": 0.5,
+            "sesgo": "bearish",
+            "intensidad": 0.8823703821656051
+        }
+    },
+    {
+        "symbol": "AVNTUSDT",
+        "timestamp": "2025-10-15T02:08:17.963543",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 44.49152278440135,
+            "MACD": -0.0006438509446755614,
+            "ADX": NaN,
+            "StochRSI": 39.22035075120625,
+            "patron_vela": "bearish_engulfing",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 0.887934713375796
+        }
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "timestamp": "2025-10-15T02:08:27.532537",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 49.999999875,
+            "MACD": -0.0032709567164808107,
+            "ADX": NaN,
+            "StochRSI": 70.27027032505764,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 0.8894929936305731
+        }
+    },
+    {
+        "symbol": "ENSOUSDT",
+        "timestamp": "2025-10-15T22:36:26.784452",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 43.68131851331363,
+            "MACD": -0.006828675143687679,
+            "ADX": NaN,
+            "StochRSI": 5.072062764600384,
+            "patron_vela": "none",
+            "confianza": 0.55,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "EULUSDT",
+        "timestamp": "2025-10-15T22:36:44.655423",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 44.5945943836742,
+            "MACD": -0.04591089963126649,
+            "ADX": NaN,
+            "StochRSI": 78.94271590435304,
+            "patron_vela": "bearish_engulfing",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "NILUSDT",
+        "timestamp": "2025-10-15T12:55:13.437443",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 58.28220358312359,
+            "MACD": 4.779819288891485e-05,
+            "ADX": NaN,
+            "StochRSI": 99.99999999967173,
+            "patron_vela": "none",
+            "confianza": 0.55,
+            "sesgo": "bullish",
+            "intensidad": 0.9768705882352939
+        }
+    },
+    {
+        "symbol": "ZROUSDT",
+        "timestamp": "2025-10-15T22:07:51.052962",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 55.99999843200004,
+            "MACD": -0.0006270279960880476,
+            "ADX": NaN,
+            "StochRSI": 57.81999813359522,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "ACEUSDT",
+        "timestamp": "2025-10-15T22:14:50.485215",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 49.99999416666735,
+            "MACD": -0.00029209105044752937,
+            "ADX": NaN,
+            "StochRSI": 36.84210351784293,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "API3USDT",
+        "timestamp": "2025-10-15T22:14:56.378227",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 43.12795922373734,
+            "MACD": -0.0015062531042535632,
+            "ADX": NaN,
+            "StochRSI": 16.355254349850544,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "ASTERUSDT",
+        "timestamp": "2025-10-15T22:21:53.854217",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 34.78260798991826,
+            "MACD": -0.008550383249748883,
+            "ADX": NaN,
+            "StochRSI": 41.06158942611043,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "timestamp": "2025-10-15T22:29:04.586202",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 51.04166592230892,
+            "MACD": -0.0005343322507123105,
+            "ADX": NaN,
+            "StochRSI": 90.01659945836158,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "CRVUSDT",
+        "timestamp": "2025-10-15T22:29:13.940323",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 48.23529014532892,
+            "MACD": -0.0006891730971086973,
+            "ADX": NaN,
+            "StochRSI": 99.9999999990685,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "FXSUSDT",
+        "timestamp": "2025-10-15T22:36:35.126660",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 60.86956336483927,
+            "MACD": -0.0004252639610764497,
+            "ADX": NaN,
+            "StochRSI": 82.44054799192448,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "EPICUSDT",
+        "timestamp": "2025-10-15T22:36:39.532147",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 45.45454352617088,
+            "MACD": -0.0009217829571637193,
+            "ADX": NaN,
+            "StochRSI": 55.14899965707967,
+            "patron_vela": "none",
+            "confianza": 0.5,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "EIGENUSDT",
+        "timestamp": "2025-10-15T22:36:55.206806",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 57.14285571428586,
+            "MACD": -0.0001505926612344055,
+            "ADX": NaN,
+            "StochRSI": 79.76190464247843,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "METISUSDT",
+        "timestamp": "2025-10-15T22:52:01.787131",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 42.424242244260725,
+            "MACD": -0.010585632685964796,
+            "ADX": NaN,
+            "StochRSI": 34.54545462110733,
+            "patron_vela": "none",
+            "confianza": 0.5,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "LDOUSDT",
+        "timestamp": "2025-10-15T22:52:12.584573",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 51.437697379783515,
+            "MACD": -0.0005130065739855638,
+            "ADX": NaN,
+            "StochRSI": 55.85197905296868,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "PENDLEUSDT",
+        "timestamp": "2025-10-15T23:07:31.719912",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 45.7831317578748,
+            "MACD": -0.004740882785088996,
+            "ADX": NaN,
+            "StochRSI": 32.74273613206096,
+            "patron_vela": "none",
+            "confianza": 0.5,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "OPENUSDT",
+        "timestamp": "2025-10-15T23:07:36.410921",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 39.58332756076454,
+            "MACD": -0.0006709567423295315,
+            "ADX": NaN,
+            "StochRSI": 18.691358774139033,
+            "patron_vela": "bullish_engulfing",
+            "confianza": 0.6,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "ORDIUSDT",
+        "timestamp": "2025-10-15T23:07:42.116673",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 44.69696922291117,
+            "MACD": -0.006289214414453959,
+            "ADX": NaN,
+            "StochRSI": 17.810773893452136,
+            "patron_vela": "none",
+            "confianza": 0.55,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "NEARUSDT",
+        "timestamp": "2025-10-15T23:07:46.597046",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 46.55172301426866,
+            "MACD": -0.0009099668177450226,
+            "ADX": NaN,
+            "StochRSI": 9.68127927441684,
+            "patron_vela": "none",
+            "confianza": 0.55,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "RAYUSDT",
+        "timestamp": "2025-10-15T23:15:53.444140",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 29.999999160000243,
+            "MACD": -0.005954284335057292,
+            "ADX": NaN,
+            "StochRSI": 5.084744942642088,
+            "patron_vela": "none",
+            "confianza": 0.45,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "SNXUSDT",
+        "timestamp": "2025-10-15T23:24:10.399578",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 50.68493053480964,
+            "MACD": -0.004341277516278108,
+            "ADX": NaN,
+            "StochRSI": 95.6042376146316,
+            "patron_vela": "none",
+            "confianza": 0.7,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    },
+    {
+        "symbol": "ZECUSDT",
+        "timestamp": "2025-10-15T23:40:42.794791",
+        "score": 0,
+        "detalles": {
+            "RSI_14": 59.95542347073272,
+            "MACD": -0.2764053965640585,
+            "ADX": NaN,
+            "StochRSI": 75.17456823298706,
+            "patron_vela": "none",
+            "confianza": 0.65,
+            "sesgo": "bearish",
+            "intensidad": 1.0
+        }
+    }
+]

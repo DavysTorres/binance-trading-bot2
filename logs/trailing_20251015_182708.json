@@ -1,0 +1,10 @@
+{
+    "symbol": "SNXUSDT",
+    "direccion": "short",
+    "cantidad": 147.0,
+    "precio_entrada": 1.723,
+    "tp": 1.671,
+    "sl": 1.7570000000000001,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_182708"
+}

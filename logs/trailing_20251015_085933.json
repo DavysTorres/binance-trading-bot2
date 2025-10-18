@@ -1,0 +1,10 @@
+{
+    "symbol": "NILUSDT",
+    "direccion": "long",
+    "cantidad": 909.0,
+    "precio_entrada": 0.2788,
+    "tp": 0.2872,
+    "sl": 0.2733,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_085933"
+}

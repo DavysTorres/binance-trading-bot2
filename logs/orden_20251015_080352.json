@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "DEXEUSDT",
+    "side": "BUY",
+    "estrategia": "Momentum Alcista Adaptativo",
+    "direccion": "long",
+    "precio_entrada": 6.777,
+    "cantidad": 116.27,
+    "stop_loss": 6.734,
+    "take_profit": 6.84,
+    "timestamp": "20251015_080352",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

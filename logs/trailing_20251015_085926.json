@@ -1,0 +1,10 @@
+{
+    "symbol": "THETAUSDT",
+    "direccion": "neutro",
+    "cantidad": 0.1,
+    "precio_entrada": 0.5630000000000001,
+    "tp": 0.5630000000000001,
+    "sl": 0.5630000000000001,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_085926"
+}

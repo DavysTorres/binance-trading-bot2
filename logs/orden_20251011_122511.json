@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "FORMUSDT",
+    "precio_entrada": 0.7527,
+    "cantidad": 19.928258,
+    "stop_loss": 0.737646,
+    "take_profit": 0.775281,
+    "timestamp": "20251011_122511",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "ASTERUSDT",
+    "side": "SELL",
+    "estrategia": "Momentum Bajista Adaptativo",
+    "direccion": "short",
+    "precio_entrada": 1.293,
+    "cantidad": 199.99,
+    "stop_loss": 1.318,
+    "take_profit": 1.254,
+    "timestamp": "20251015_183526",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

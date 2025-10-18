@@ -1,0 +1,10 @@
+{
+    "symbol": "CYBERUSDT",
+    "direccion": "neutro",
+    "cantidad": 0.01,
+    "precio_entrada": 1.165,
+    "tp": 1.165,
+    "sl": 1.165,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_085203"
+}

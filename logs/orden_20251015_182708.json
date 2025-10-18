@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "SNXUSDT",
+    "side": "SELL",
+    "estrategia": "Momentum Bajista Adaptativo",
+    "direccion": "short",
+    "precio_entrada": 1.723,
+    "cantidad": 147.0,
+    "stop_loss": 1.7570000000000001,
+    "take_profit": 1.671,
+    "timestamp": "20251015_182708",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

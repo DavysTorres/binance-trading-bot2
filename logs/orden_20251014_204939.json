@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "buy",
+    "symbol": "DEGOUSDT",
+    "precio_entrada": 0.998,
+    "cantidad": 15.03006,
+    "stop_loss": 0.998,
+    "take_profit": 0.998,
+    "timestamp": "20251014_204939",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

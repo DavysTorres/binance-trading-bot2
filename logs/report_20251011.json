@@ -1,0 +1,119 @@
+[
+    {
+        "timestamp": "2025-10-11 12:19:30",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 1,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 12:25:17",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 1,
+        "validated_signals": 1,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 12:30:45",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 12:36:19",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 12:41:52",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 1,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 12:47:22",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 13:43:09",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 2,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 13:48:47",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 13:54:33",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 1,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 14:00:33",
+        "sesgo_global": "bearish",
+        "intensidad": 1.0,
+        "total_signals": 2,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 18:48:33",
+        "sesgo_global": "neutral",
+        "intensidad": 1.0,
+        "total_signals": 1,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 18:54:20",
+        "sesgo_global": "neutral",
+        "intensidad": 0.99,
+        "total_signals": 0,
+        "validated_signals": 0,
+        "open_trades": 0,
+        "closed_trades": 0
+    },
+    {
+        "timestamp": "2025-10-11 19:11:59",
+        "sesgo_global": "neutral",
+        "intensidad": 1.0,
+        "total_signals": 0,
+        "validated_signals": 2,
+        "open_trades": 0,
+        "closed_trades": 0
+    }
+]

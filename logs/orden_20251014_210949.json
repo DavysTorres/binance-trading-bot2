@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "CYBERUSDT",
+    "precio_entrada": 1.118,
+    "cantidad": 13.416816,
+    "stop_loss": 1.118,
+    "take_profit": 1.118,
+    "timestamp": "20251014_210949",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

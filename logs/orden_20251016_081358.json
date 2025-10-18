@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "symbol": "ZKCUSDT",
+    "side": "BUY",
+    "precio_entrada": 0.2663,
+    "cantidad": 221.4,
+    "stop_loss": 0.243723,
+    "take_profit": 0.300166,
+    "trailing_stop_pct": 0.01,
+    "score": 0.5,
+    "confianza_%": 50.0,
+    "confluencia_score": 0.0,
+    "timestamp": "20251016_081358",
+    "motivo": "Simulaci\u00f3n autom\u00e1tica (score=0.70, conf=0.65) | Momentum Alcista Avanzado (long)"
+}

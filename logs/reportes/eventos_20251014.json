@@ -1,0 +1,122 @@
+[
+    {
+        "timestamp": "2025-10-14T20:49:39.504723",
+        "symbol": "DEGOUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:02:23.644708",
+        "symbol": "WIFUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:02:33.311928",
+        "symbol": "SSVUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:02:42.051739",
+        "symbol": "VIRTUALUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:02:50.190317",
+        "symbol": "APTUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:09:49.706295",
+        "symbol": "CYBERUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:09:54.982496",
+        "symbol": "FORMUSDT",
+        "tipo": "reevaluacion",
+        "resultado": "omitido",
+        "simulada": false,
+        "mensaje": "No se confirm\u00f3 la se\u00f1al"
+    },
+    {
+        "timestamp": "2025-10-14T21:23:39.047054",
+        "symbol": "ENSOUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:30:20.759450",
+        "symbol": "MLNUSDT",
+        "tipo": "reevaluacion",
+        "resultado": "omitido",
+        "simulada": false,
+        "mensaje": "No se confirm\u00f3 la se\u00f1al"
+    },
+    {
+        "timestamp": "2025-10-14T21:30:25.296862",
+        "symbol": "XPLUSDT",
+        "tipo": "reevaluacion",
+        "resultado": "omitido",
+        "simulada": false,
+        "mensaje": "No se confirm\u00f3 la se\u00f1al"
+    },
+    {
+        "timestamp": "2025-10-14T21:30:32.763847",
+        "symbol": "ENSOUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T21:30:40.831877",
+        "symbol": "EULUSDT",
+        "tipo": "ejecucion",
+        "resultado": "fallo",
+        "simulada": true,
+        "mensaje": "Simulaci\u00f3n o fallo"
+    },
+    {
+        "timestamp": "2025-10-14T23:02:11.563923",
+        "symbol": "BTCUSDT",
+        "tipo": "reevaluacion",
+        "resultado": "omitido",
+        "simulada": false,
+        "mensaje": "Sin confirmaci\u00f3n"
+    },
+    {
+        "timestamp": "2025-10-14T23:10:00.931710",
+        "symbol": "BTCUSDT",
+        "tipo": "reevaluacion",
+        "resultado": "omitido",
+        "simulada": false,
+        "mensaje": "Sin confirmaci\u00f3n"
+    },
+    {
+        "timestamp": "2025-10-14T23:19:32.954785",
+        "symbol": "BTCUSDT",
+        "tipo": "reevaluacion",
+        "resultado": "omitido",
+        "simulada": false,
+        "mensaje": "Sin confirmaci\u00f3n"
+    }
+]

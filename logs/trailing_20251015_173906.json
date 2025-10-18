@@ -1,0 +1,10 @@
+{
+    "symbol": "CRVUSDT",
+    "direccion": "short",
+    "cantidad": 458.70000000000005,
+    "precio_entrada": 0.5499,
+    "tp": 0.5334,
+    "sl": 0.5608000000000001,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_173906"
+}

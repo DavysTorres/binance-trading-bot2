@@ -1,0 +1,28 @@
+timestamp,symbol,tipo,resultado,simulada,mensaje
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:19:23.961696,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T12:25:11.814209,FORMUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T19:11:50.846120,DEXEUSDT,ejecucion,fallo,True,Simulación o fallo
+2025-10-11T19:11:55.644591,DEGOUSDT,reevaluacion,omitido,False,No se confirmó la señal

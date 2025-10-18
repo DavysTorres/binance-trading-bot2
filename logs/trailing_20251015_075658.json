@@ -1,0 +1,10 @@
+{
+    "symbol": "DEXEUSDT",
+    "direccion": "long",
+    "cantidad": 116.27,
+    "precio_entrada": 6.804,
+    "tp": 6.867,
+    "sl": 6.761,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_075658"
+}

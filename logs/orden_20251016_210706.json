@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "symbol": "ARUSDT",
+    "side": "SELL",
+    "precio_entrada": 4.07,
+    "cantidad": 307.12,
+    "stop_loss": 4.08628,
+    "take_profit": 4.04558,
+    "trailing_stop_pct": 0.014,
+    "score": 0.1,
+    "confianza_%": 10.0,
+    "confluencia_score": 0.8,
+    "timestamp": "20251016_210706",
+    "motivo": "Simulaci\u00f3n autom\u00e1tica (score=-0.45, conf=0.80) | Momentum Bajista Avanzado (short)"
+}

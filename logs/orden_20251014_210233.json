@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "SSVUSDT",
+    "precio_entrada": 5.56,
+    "cantidad": 2.697842,
+    "stop_loss": 5.56,
+    "take_profit": 5.56,
+    "timestamp": "20251014_210233",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

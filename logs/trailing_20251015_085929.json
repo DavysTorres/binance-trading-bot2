@@ -1,0 +1,10 @@
+{
+    "symbol": "ENSOUSDT",
+    "direccion": "neutro",
+    "cantidad": 0.01,
+    "precio_entrada": 2.403,
+    "tp": 2.403,
+    "sl": 2.403,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_085929"
+}

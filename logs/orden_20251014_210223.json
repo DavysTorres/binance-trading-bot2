@@ -1,0 +1,13 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "side": "sell",
+    "symbol": "WIFUSDT",
+    "precio_entrada": 0.577,
+    "cantidad": 25.996534,
+    "stop_loss": 0.577,
+    "take_profit": 0.577,
+    "timestamp": "20251014_210223",
+    "simulada": true,
+    "resultado": "Cantidad o notional bajo"
+}

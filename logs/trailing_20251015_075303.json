@@ -1,0 +1,10 @@
+{
+    "symbol": "DEGOUSDT",
+    "direccion": "long",
+    "cantidad": 98.03,
+    "precio_entrada": 1.645,
+    "tp": 1.72,
+    "sl": 1.594,
+    "trailing_pct": 0.01,
+    "timestamp": "20251015_075303"
+}

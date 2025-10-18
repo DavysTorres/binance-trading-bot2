@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "DEGOUSDT",
+    "side": "BUY",
+    "estrategia": "Momentum Alcista Adaptativo",
+    "direccion": "long",
+    "precio_entrada": 1.6640000000000001,
+    "cantidad": 90.9,
+    "stop_loss": 1.609,
+    "take_profit": 1.746,
+    "timestamp": "20251015_080411",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

@@ -1,0 +1,15 @@
+{
+    "modo": "simulado",
+    "market": "SPOT",
+    "symbol": "BERAUSDT",
+    "side": "SELL",
+    "estrategia": "Momentum Bajista Adaptativo",
+    "direccion": "short",
+    "precio_entrada": 1.814,
+    "cantidad": 138.888,
+    "stop_loss": 1.85,
+    "take_profit": 1.7590000000000001,
+    "timestamp": "20251015_181024",
+    "simulada": true,
+    "motivo": "Simulaci\u00f3n externa"
+}

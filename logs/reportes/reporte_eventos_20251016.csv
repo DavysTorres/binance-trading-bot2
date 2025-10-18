@@ -1,0 +1,160 @@
+timestamp,symbol,tipo,resultado,simulada,mensaje
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T21:07:06.177598,ARUSDT,simulada,creada,True,
+2025-10-16T21:07:07.558916,ARUSDT,simulada,creada,True,
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T21:07:06.177598,ARUSDT,simulada,creada,True,
+2025-10-16T21:07:07.558916,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:33.380991,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:34.546257,ARUSDT,simulada,creada,True,
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T21:07:06.177598,ARUSDT,simulada,creada,True,
+2025-10-16T21:07:07.558916,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:33.380991,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:34.546257,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:13.787134,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:14.906764,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:25.824793,DASHUSDT,simulada,creada,True,
+2025-10-16T21:28:26.883173,DASHUSDT,simulada,creada,True,
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T21:07:06.177598,ARUSDT,simulada,creada,True,
+2025-10-16T21:07:07.558916,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:33.380991,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:34.546257,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:13.787134,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:14.906764,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:25.824793,DASHUSDT,simulada,creada,True,
+2025-10-16T21:28:26.883173,DASHUSDT,simulada,creada,True,
+2025-10-16T21:39:33.928560,DASHUSDT,monitoreo,cerrado,False,🔴 DASHUSDT cerrado — Stop Loss alcanzado. Δ%=1.09 | Score=0.10 | Confluencia=0.30
+2025-10-16T08:13:58.849352,ZKCUSDT,simulada,creada,True,
+2025-10-16T08:24:56.487279,NMRUSDT,simulada,creada,True,
+2025-10-16T08:26:05.322096,ZKCUSDT,monitoreo,cerrado,False,🔴 ZKCUSDT cerrado — Stop Loss alcanzado. Δ%=-10.66 | Score=0.50 | Confluencia=0.30
+2025-10-16T13:48:05.580450,NMRUSDT,monitoreo,cerrado,True,🟢 NMRUSDT cerrado — Take Profit alcanzado. Δ%=-1.91 | Score=0.50 | Confluencia=0.50
+2025-10-16T14:30:31.104928,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:32.324759,ENSOUSDT,simulada,creada,True,
+2025-10-16T14:30:47.936403,KDAUSDT,simulada,creada,True,
+2025-10-16T14:30:48.967575,KDAUSDT,simulada,creada,True,
+2025-10-16T14:52:59.365942,ENSOUSDT,monitoreo,cerrado,False,🔴 ENSOUSDT cerrado — Stop Loss alcanzado. Δ%=0.46 | Score=0.10 | Confluencia=0.10
+2025-10-16T14:53:04.083637,KDAUSDT,monitoreo,cerrado,False,🔴 KDAUSDT cerrado — Stop Loss alcanzado. Δ%=0.97 | Score=0.10 | Confluencia=0.30
+2025-10-16T21:07:06.177598,ARUSDT,simulada,creada,True,
+2025-10-16T21:07:07.558916,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:33.380991,ARUSDT,simulada,creada,True,
+2025-10-16T21:17:34.546257,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:13.787134,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:14.906764,ARUSDT,simulada,creada,True,
+2025-10-16T21:28:25.824793,DASHUSDT,simulada,creada,True,
+2025-10-16T21:28:26.883173,DASHUSDT,simulada,creada,True,
+2025-10-16T21:39:33.928560,DASHUSDT,monitoreo,cerrado,False,🔴 DASHUSDT cerrado — Stop Loss alcanzado. Δ%=1.09 | Score=0.10 | Confluencia=0.30
+2025-10-16T21:50:10.048140,ARUSDT,monitoreo,cerrado,False,🔴 ARUSDT cerrado — Stop Loss alcanzado. Δ%=0.74 | Score=0.10 | Confluencia=0.30
