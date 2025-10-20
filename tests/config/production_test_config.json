@@ -1,0 +1,35 @@
+{
+  "signal_reevaluator": {
+    "reevaluation_interval_minutes": 3,
+    "min_confidence_threshold": 0.7,
+    "max_position_size_usdt": 1000,
+    "performance": {
+      "max_retries": 3,
+      "retry_delay": 1.0,
+      "request_timeout": 10.0,
+      "overall_timeout": 30.0,
+      "circuit_breaker_enabled": true,
+      "max_errors_per_minute": 10
+    },
+    "quality_thresholds": {
+      "excellent": 0.85,
+      "good": 0.70,
+      "poor": 0.60
+    }
+  },
+  "test_settings": {
+    "mock_data": {
+      "base_prices": {
+        "BTCUSDT": 50000,
+        "ETHUSDT": 3000,
+        "ADAUSDT": 0.5,
+        "SOLUSDT": 100
+      },
+      "volatility_levels": {
+        "BTCUSDT": 0.008,
+        "ETHUSDT": 0.01,
+        "default": 0.012
+      }
+    }
+  }
+}

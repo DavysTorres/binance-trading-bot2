@@ -9,3 +9,4 @@ joblib
 flask  # opcional para UI
 rich
 seaborn
+psutil
