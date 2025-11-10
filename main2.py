@@ -13,7 +13,7 @@ from binance import AsyncClient
 # ===============================
 from modules.market_scanner_module import MarketScanner
 from data.data_loader import DataLoader
-from indicators.signal_analyzer_compat import detectar_senal
+from indicators.signal_analyzer import detectar_senal
 from core.signal_buffer import SignalBuffer
 from ai.advanced_signal_validator import validar_confluencia
 from core.signal_reevaluator import reevaluar_senales

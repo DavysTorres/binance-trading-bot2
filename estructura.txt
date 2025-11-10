@@ -1,12 +1,14 @@
 ./.vscode/settings.json
 ./ai/advanced_signal_validator.py
-./ai/entry_timing_analyzer.py
 ./ai/entry_timing_analyzer_multilayer.py
 ./ai/__pycache__/advanced_signal_validator.cpython-313.pyc
 ./ai/__pycache__/entry_timing_analyzer.cpython-313.pyc
 ./ai/__pycache__/entry_timing_analyzer_multilayer.cpython-313.pyc
 ./backtest/backtest_engine.py
+./binance-trading-bot - Acceso directo.lnk
 ./config/settings.json
+./config/signal_analyzer.json
+./config/signal_reevaluator.json
 ./core/adaptive_reporter.py
 ./core/buffer_dashboard.py
 ./core/notification_manager.py
@@ -15,6 +17,7 @@
 ./core/signal_reevaluator.py
 ./core/stats_collector.py
 ./core/trade_monitor.py
+./core/__init__.py
 ./core/__pycache__/adaptive_reporter.cpython-313.pyc
 ./core/__pycache__/notification_manager.cpython-313.pyc
 ./core/__pycache__/report_manager.cpython-313.pyc
@@ -22,6 +25,7 @@
 ./core/__pycache__/signal_reevaluator.cpython-313.pyc
 ./core/__pycache__/stats_collector.cpython-313.pyc
 ./core/__pycache__/trade_monitor.cpython-313.pyc
+./core/__pycache__/__init__.cpython-313.pyc
 ./data/data_loader.py
 ./data/__pycache__/data_loader.cpython-313.pyc
 ./DOCUMENTACION_TECNICA.md
@@ -160,6 +164,7 @@
 ./logs/report_20251011.json
 ./logs/report_20251014.json
 ./logs/report_20251015.json
+./logs/test_reevaluator.log
 ./logs/trailing_20251011_121923.json
 ./logs/trailing_20251011_122511.json
 ./logs/trailing_20251011_191150.json
@@ -213,11 +218,17 @@
 ./README (1).md
 ./README.md
 ./requirements.txt
+./risk/config/risk_config.py
+./risk/execution_risk.py
+./risk/market_risk_analyzer.py
+./risk/portfolio_manager.py
+./risk/position_sizing.py
 ./risk/risk_manager.py
-./signals_buffer.json
-./signals_validated_test.json
+./risk/risk_monitor.py
+./strategies/# strategies/base_strategy.py
 ./strategies/multi_timeframe.py
 ./strategies/__pycache__/multi_timeframe.cpython-313.pyc
+./tests/config/production_test_config.json
 ./tests/generate_operables.py
 ./tests/simular_oco.py
 ./tests/test_connection.py
@@ -225,6 +236,8 @@
 ./tests/test_signal_reevaluator_multilayer.py
 ./tests/verificar_simbolos.py
 ./tests/__pycache__/test_signal_reevaluator.cpython-313.pyc
+./tests/__pycache__/test_signal_reevaluator_multilayer.cpython-313.pyc
+./timing_analyzer.log
 ./trading/binance_connector.py
 ./trading/order_manager.py
 ./trading/order_tracker.py

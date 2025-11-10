@@ -1,0 +1,42 @@
+{
+  "max_portfolio_exposure": 0.85,
+  "max_exposure_per_symbol": 0.12,
+  "max_correlated_exposure": 0.25,
+  "max_leverage_overall": 3.0,
+  "max_daily_loss": 0.015,
+  "max_weekly_loss": 0.05,
+  "max_monthly_loss": 0.1,
+  "max_trade_drawdown": 0.04,
+  "max_consecutive_losses": 4,
+  "fixed_risk_per_trade": 0.008,
+  "use_kelly_criterion": true,
+  "kelly_fraction": 0.35,
+  "min_position_size": 10,
+  "max_position_size": 50000,
+  "max_risk_score": 8,
+  "max_execution_risk_score": 3,
+  "max_market_risk_score": 4,
+  "strategy_win_rates": {
+    "momentum": 0.58,
+    "mean_reversion": 0.52,
+    "breakout": 0.48,
+    "arbitrage": 0.68,
+    "scalping": 0.45,
+    "swing": 0.55
+  },
+  "avg_win_loss_ratio": {
+    "momentum": 1.4,
+    "mean_reversion": 1.1,
+    "breakout": 1.8,
+    "arbitrage": 1.05,
+    "scalping": 1.3,
+    "swing": 1.6
+  },
+  "volatility_normal": 0.02,
+  "volatility_high": 0.04,
+  "volatility_extreme": 0.08,
+  "high_correlation": 0.7,
+  "medium_correlation": 0.4,
+  "volatility_lookback": 30,
+  "correlation_lookback": 90
+}

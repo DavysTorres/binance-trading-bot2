@@ -1,0 +1,39 @@
+{
+  "momentum": {
+    "timeframes": ["15m", "1h", "4h"],
+    "required_confidence": 0.6,
+    "rsi_period": 14,
+    "macd_fast": 12,
+    "macd_slow": 26,
+    "macd_signal": 9
+  },
+  "mean_reversion": {
+    "lookback_period": 20,
+    "std_deviation": 2,
+    "rsi_period": 14,
+    "volume_threshold": 1.5,
+    "required_confidence": 0.65
+  },
+  "breakout": {
+    "consolidation_period": 20,
+    "volume_multiplier": 2.0,
+    "breakout_threshold": 0.02,
+    "confirmation_candles": 2,
+    "required_confidence": 0.7
+  },
+  "scalping": {
+    "fast_ema": 5,
+    "slow_ema": 15,
+    "rsi_period": 10,
+    "profit_target": 0.003,
+    "stop_loss": 0.002,
+    "max_holding_time": 10,
+    "required_confidence": 0.75
+  },
+  "strategy_weights": {
+    "momentum": 0.25,
+    "mean_reversion": 0.25,
+    "breakout": 0.3,
+    "scalping": 0.2
+  }
+}

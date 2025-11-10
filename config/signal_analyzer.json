@@ -1,0 +1,27 @@
+{
+  "modules": {
+    "signal_analyzer": {
+      "filters": {
+        "min_volume_usdt": 100000,
+        "min_volatility_atr": 0.002,
+        "required_timeframes": ["5m", "15m"]
+      },
+      "scoring": {
+        "min_composite_score": 60.0,
+        "min_trend_confluence": 60.0
+      },
+      "performance": {
+        "enable_caching": true,
+        "quick_analysis_mode": true,
+        "max_memory_mb": 100,
+        "cache_ttl_minutes": 5,
+        "max_workers": 4
+      },
+      "historical_validation": {
+        "min_success_rate": 0.4,
+        "similarity_threshold": 0.7,
+        "max_history_size": 1000
+      }
+    }
+  }
+}
